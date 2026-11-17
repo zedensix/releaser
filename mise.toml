@@ -1,6 +1,6 @@
 [tools]
 go = "1.27.4"
-prek = "0.5.10"
+prek = "0.5.11"
 gotestsum = "1.13.0"
 
 [tasks.cover]
